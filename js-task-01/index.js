@@ -1,6 +1,6 @@
 //              JS-CLASS-TASK-01
 // -> QUESTION:01
-//           Welcome Message:
+//            Welcome Message:
 //                      Create a function called displayWelcomeMessage that prompts the user to enter
 // their Name and then displays a personalized welcome message such as "Welcome, [name]!" in an alert.
 
