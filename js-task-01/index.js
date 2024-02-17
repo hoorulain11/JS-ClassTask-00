@@ -3,7 +3,8 @@
 //           Welcome Message:
 //                      Create a function called displayWelcomeMessage that prompts the user to enter
 // their Name and then displays a personalized welcome message such as "Welcome, [name]!" in an alert.
-//        function displayWelcomeMessage() {
+
+  //        function displayWelcomeMessage() {
 //               let name = prompt("Enter your name:");
 //               alert("Welcome  " + name + "!");
    
@@ -16,7 +17,7 @@
 //  from an array of predefined quotes.Call this function to display a random quote on the webpage.
 
 // let quotes = [
-//   "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+//   "Every day is a new canvas, paint it with your colors.",
 //   "It does not matter how slowly you go as long as you do not stop.",
 //   "The only way to achieve the impossible is to believe it is possible.",
 // ];
@@ -24,10 +25,8 @@
 // function generateQuote() {
 //  let   quotesIndexes = Math.floor(Math.random() * quotes.length);
 //     let randomQuote = quotes[quotesIndexes];
-//     alert(randomQuote);
-    
+//     alert(randomQuote);   
 // }
-
 // generateQuote();
 
 
