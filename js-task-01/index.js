@@ -15,20 +15,31 @@
 //                           Create a function called generateQuote that randomly selects and returns a quote
 //  from an array of predefined quotes.Call this function to display a random quote on the webpage.
 
-// let quotes = [
-//   "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-//   "It does not matter how slowly you go as long as you do not stop.",
-//   "The only way to achieve the impossible is to believe it is possible.",
-// ];
+let quotes = [
+  "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+  "It does not matter how slowly you go as long as you do not stop.",
+  "The only way to achieve the impossible is to believe it is possible.",
+];
 
-// function generateQuote() {
-//  let   quotesIndexes = Math.floor(Math.random() * quotes.length);
-//     let randomQuote = quotes[quotesIndexes];
-//     alert(randomQuote);
+function generateQuote() {
+ let   quotesIndexes = Math.floor(Math.random() * quotes.length);
+    let randomQuote = quotes[quotesIndexes];
+    alert(randomQuote);
     
-// }
+}
 
-// generateQuote();
+generateQuote();
+
+
+
+
+
+
+
+
+
+
+
 
 
 
